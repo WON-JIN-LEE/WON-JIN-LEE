@@ -1,9 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=WON%20JIN%20LEE&fontSize=75&animation=fadeIn&fontAlignY=28&desc=Thank%20you%20for%20coming%20to%20my%20github✨&descAlignY=51&descAlign=60)
 <div align="">
-  <p>
-  🗣 Hi there! I'm <b>wonjin Lee</b><br/>
-</p>
+  <h3>
+   🗣 Hi there! I'm <b>wonjin Lee</b><br/>
+</h3>
+<br/>
 <p>
   <a href="mailto:vopgh0409@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
   <a href="https://jinblog123.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84a8ad?style=flat-square"/></a>
