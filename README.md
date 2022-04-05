@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=WON%20JIN%20LEE&fontSize=75&animation=fadeIn&fontAlignY=28&desc=Thank%20you%20for%20coming%20to%20my%20github✨&descAlignY=51&descAlign=60)
-<div align="">
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=WON%20JIN%20LEE&fontSize=75&animation=fadeIn&fontAlignY=48&desc=Thank%20you%20for%20coming%20to%20my%20github✨&descAlignY=80&descAlign=60)
   <h3>
    🗣 Hi there! I'm <b>wonjin Lee</b><br/>
 </h3>
