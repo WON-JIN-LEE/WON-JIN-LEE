@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black">
   </p>
 <p>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+<!--     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  -->
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">  
 <img src="https://img.shields.io/badge/AWS Ec2-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   </p>
@@ -28,7 +28,7 @@
 ### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
