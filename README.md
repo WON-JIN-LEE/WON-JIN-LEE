@@ -10,8 +10,7 @@
   <a href="https://easy-jam-8cd.notion.site/3ac246e72ea44e39ae8d7817e7815150" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWON-JIN-LEE%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WON-JIN-LEE&show_icons=true&theme=tokyonight)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WON-JIN-LEE&show_icons=true&theme=tokyonight) -->
 ### 💻 Skills 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
